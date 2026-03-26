@@ -22,6 +22,10 @@ nav a {
 
   color: white;
 }
+
+main {
+  padding: 20px;
+}
  
 nav a:hover {
   font-weight: bold;
